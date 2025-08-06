@@ -133,7 +133,7 @@ function Items() {
 						placeholder="검색할 상품을 입력해주세요"
 						className="searchInput"
 					/>
-					<Link to="/addItems">
+					<Link to="/addItem">
 						<button className="button newItemRegist">상품 등록하기</button>
 					</Link>
 
